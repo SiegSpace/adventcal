@@ -19,12 +19,9 @@ Unpack the archive and save it to a new folder. Pick a image of the same dimensi
 
 More adventurous people can change the colours and images positions by changing the `style.css` file.
 
-In the spirit of giving and sharing, if for some reason you don't like ours, there's another one that's similar that you can try [here](http://www.wait-till-i.com/2005/11/16/a-free-christmas-calendar-in-php/). It doesn't seem any easier to configure, but it has a nice roll-over effect!
-
 ## Huh?
 
-This is mostly being gitted as a test. It is quite simple really... but simplicity was the goal afterall. No install, no demanding requirements... but even so if I find the time I would like to make this a bit nicer.
-
+This is mostly being gitted as a test. It is quite simple really... but simplicity was the goal afterall. No install, no demanding requirements... but even so if I find the time I would like to make this a bit nicer. On a side note, there was a similar one [here](http://www.wait-till-i.com/2005/11/16/a-free-christmas-calendar-in-php/) but is seems partially dead now.
 
 [Website](https://sinnercomputing.com/det.php?prog=AdventCal)
 
