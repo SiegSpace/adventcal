@@ -1,0 +1,254 @@
+body
+{
+ background: #082b45;
+ color: #FFF;
+ font-family: Arial;
+}
+
+h1
+{
+ font-family: Arial;
+ font-variant: normal;
+ font-size: 22px;
+ color: #FFF;
+ background: none;
+ text-align: left;
+ margin:auto;
+}
+
+h2
+{
+ font-family: Arial;
+ font-size: 18px;
+ color: #FFF;
+ background: none;
+ text-align: left;
+ margin:auto;
+}
+
+h3
+{
+ font-family: Arial;
+ font-size: 16px;
+ color: #000;
+ background: none;
+ text-align: left;
+ margin:auto;
+}
+
+#main
+{
+ background:url(back.jpg) top left no-repeat #082b45;
+ width:800px;
+ height:600px;
+ position:relative;
+ margin:auto;
+ list-style:none;
+}
+
+#main li
+{
+ list-style:none;
+}
+
+#main li a
+{
+ border:2px solid #000;
+ display:block;
+ width:100px;
+ height:100px;
+ font-weight:bold;
+ color:#fff;
+ text-decoration:none;
+ font-family: Verdana, Helvetica, Sans-Serif;
+ padding:2px 2px 2px 2px;
+ position:absolute;
+}
+
+#main li a:hover
+{
+ border:2px solid #fff;
+ color:#fff;
+}
+
+#topbit
+{
+ background: #006633;
+ color: #FFF;
+ border: 1px solid #FFF;
+ height: 100px;
+ margin: 0;
+ padding: 0;
+}
+
+#texthead
+{
+ background: #032540;
+ border: 1px solid #FFF;
+ border-bottom: 1px solid #113b5b;
+ color: #FFF;
+ margin: 0px;
+ padding: 8px;
+}
+
+#textblock
+{
+ background: #032540;
+ color: #000;
+ font-size: 16px;
+ line-height: 110%;
+ border: 1px solid #FFF;
+ border-bottom: 1px solid #5176B5;
+ border-right: 1px solid #5176B5;
+}
+
+.row
+{
+ background: #cad6e4;
+}
+
+#bread
+{
+ background: transparent;
+ color: #FFF;
+ font-size: 12px;
+ font-weight: bold;
+ margin: 0 0 5px 0;
+ padding: 14px 0px 8px 0px;
+}
+
+#bread a:link,
+#bread a:visited
+{
+ background: transparent;
+ color: #FFF;
+ text-decoration: none;
+}
+
+#bread a:hover,
+#bread a:active
+{
+ background: transparent;
+ color: #6ea07a;
+}
+
+#day1
+{
+ left:150px;
+ top:480px;
+}
+#day2
+{
+ left:650px;
+ top:420px;
+}
+#day3
+{
+ left:400px;
+ top:470px;
+}
+#day4
+{
+ left:529px;
+ top:151px;
+}
+#day5
+{
+ left:649px;
+ top:160px;
+}
+#day6
+{
+ left:135px;
+ top:8px;
+}
+#day7
+{
+ left:280px;
+ top:153px;
+}
+#day8
+{
+ left:260px;
+ top:15px;
+}
+#day9
+{
+ left:520px;
+ top:460px;
+}
+#day10
+{
+ left:8px;
+ top:453px;
+}
+#day11
+{
+ left:675px;
+ top:305px;
+}
+#day12
+{
+ left:279px;
+ top:468px;
+}
+#day13
+{
+ left:550px;
+ top:300px;
+}
+#day14
+{
+ left:155px;
+ top:315px;
+}
+#day15
+{
+ left:5px;
+ top:5px;
+}
+#day16
+{
+ left:675px;
+ top:15px;
+}
+#day17
+{
+ left:145px;
+ top:156px;
+}
+#day18
+{
+ left:275px;
+ top:302px;
+}
+#day19
+{
+ left:398px;
+ top:7px;
+}
+#day20
+{
+ left:8px;
+ top:150px;
+}
+#day21
+{
+ left:540px;
+ top:2px;
+}
+#day22
+{
+ left:400px;
+ top:300px;
+}
+#day23
+{
+ left:405px;
+ top:161px;
+}
+#day24
+{
+ left:15px;
+ top:268px;
+}
