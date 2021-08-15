@@ -2,7 +2,7 @@
 
 Add some Season Greetings to your website this year with our Advent Calendar! Currently it's set to be the 24 Days of Sinner Computing, but by modifying the links and images stored in a file it can be anything you want.
 
-This was originally written in 2008 for Eurobricks for a give-away raffle, but we've re-worked it so it's more generic. It still works much the same, but it's been enhanced so the `windows` can be placed anywhere. We're receptive to suggestions and in time we might make this easier to configure, but please keep in mind that we don't plan to ever charge for this so substantial work is unlikely. (Custom work is a possibility though.)
+This was originally written in 2008 for [Eurobricks](https://www.eurobricks.com/sieg/cal/) for a give-away raffle, but we've re-worked it so it's more generic. It still works much the same, but it's been enhanced so the `windows` can be placed anywhere. We're receptive to suggestions and in time we might make this easier to configure, but please keep in mind that we don't plan to ever charge for this so substantial work is unlikely. (Custom work is a possibility though.)
 
 Below are some examples of what can be done with it. The first one shows how the downloadable version looks.
 
